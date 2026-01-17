@@ -102,6 +102,4 @@ The app displays the **estimated house price (₹ in Lakhs)** based on user inpu
 🔗 GitHub: https://github.com/shettyprasad-git  
 🔗 LinkedIn: https://www.linkedin.com/in/durgaprasadshetty
 
----
 
-⭐ If you found this project useful, feel free to star the repository!
