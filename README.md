@@ -56,7 +56,7 @@ Bangalore-House-Price-Prediction/
 ├── columns.json
 ├── README.md
 │
-├── data/
+├── Dataset/
 │   └── BHP.csv
 │
 ├── notebook/
